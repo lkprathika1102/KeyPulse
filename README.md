@@ -27,7 +27,7 @@ The system consists of two primary modules:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/lkprathika1102/KeyPulse>
    cd key-pulse
    ```
 
