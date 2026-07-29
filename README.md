@@ -83,3 +83,6 @@ If the tracker runs but records `0` keystrokes:
 
 
 You should get something like this
+
+<img width="3600" height="1800" alt="activity_timeline" src="https://github.com/user-attachments/assets/178edf17-5023-4b22-8ecd-6e7039a3ed99" />
+
