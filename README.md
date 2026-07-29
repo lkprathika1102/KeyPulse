@@ -4,6 +4,8 @@ KeyPulse is a keyboard activity monitor. It tracks the volume of keystrokes over
 
 Unlike a keylogger, KeyPulse does not record which keys are pressed. It only adds a counter. The resulting log contains only timestamps and integers (e.g., `2026-07-29 21:04:45, 13`), making it impossible to reconstruct sensitive data or passwords.
 
+Note: Please run this project only using python3.12, not the latest 3.14 as the dependencies and binaries are not yet supported for it, so make sure you have it
+
 ## System Architecture
 
 The system consists of two primary modules:
